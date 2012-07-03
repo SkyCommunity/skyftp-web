@@ -1,0 +1,27 @@
+<TABLE>
+<TR>
+	<TD><center><b>Naujiena atrodys maþdaug taip:</b></center>
+{content}</TD>
+</TR>
+<TR>
+	<TD><center><b>Galite pataisyti naujienà:</b></center></TD>
+	{edit}
+</TR>
+<TR>
+	<TD><center><b>Siøsti naujienà:</b></center>
+Jeigu esate ásitikinæ, kad jau praðëte tai, ko norite, galite siøsti naujienà administratoriaus perþiûrai.
+<div align="center"> <form action="?site=news&action=submit&{defaulturl}" method="post" enctype="multipart/form-data" name="newsform" target="_self" id="newsform">
+<input type="hidden" name="author" value="{author}">
+<input type="hidden" name="date" value="{date}">
+<input type="hidden" name="time" value="{time}">
+<input type="hidden" name="picture" value="{language}">
+<input type="hidden" name="picture" value="{picture}">
+<input type="hidden" name="smallinfo" value="{smallinfo}">
+<input type="hidden" name="allinfo" value="{allinfo}">
+<input type="hidden" name="language" value="{language}">
+<input type="hidden" name="category" value="{category}">
+<input type="hidden" name="title" value="{title}">
+<input type="submit" name="Submit" value="Skelbti" align="center"/></form></div>
+</TD>
+</TR>
+</TABLE>

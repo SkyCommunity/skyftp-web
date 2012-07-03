@@ -1,0 +1,51 @@
+Engine|<-+<0001>+->|Type|<-+<0001>+->|Variable|<-+<0001>+->|Value
+Chat.NET|<-+<0001>+->|f|<-+<0001>+->|server|<-+<0001>+->|s
+Chat.NET|<-+<0001>+->|f|<-+<0001>+->|nick|<-+<0001>+->|n
+Chat.NET|<-+<0001>+->|f|<-+<0001>+->|name|<-+<0001>+->|l
+Chat.NET|<-+<0001>+->|h|<-+<0001>+->|u|<-+<0001>+->|yes
+Chat.NET|<-+<0001>+->|h|<-+<0001>+->|js|<-+<0001>+->|0
+Chat.NET|<-+<0001>+->|h|<-+<0001>+->|p|<-+<0001>+->|6667
+Chat.NET|<-+<0001>+->|h|<-+<0001>+->|c|<-+<0001>+->|#skynetftp
+Chat.NET|<-+<0001>+->|h|<-+<0001>+->|style|<-+<0001>+->|text-white
+Chat.NET|<-+<0001>+->|h|<-+<0001>+->|myaction|<-+<0001>+->|load
+Plouf's Java IRC Client|<-+<0001>+->|f|<-+<0001>+->|server|<-+<0001>+->|host
+Plouf's Java IRC Client|<-+<0001>+->|f|<-+<0001>+->|nick|<-+<0001>+->|nick
+Plouf's Java IRC Client|<-+<0001>+->|f|<-+<0001>+->|name|<-+<0001>+->|name
+Plouf's Java IRC Client|<-+<0001>+->|v|<-+<0001>+->|Alternatyvus Nick'as|<-+<0001>+->|<input type="text" name="alternatenick" value="{username}][">
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|port|<-+<0001>+->|6667
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smileys|<-+<0001>+->|true
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|bitmapsmileys|<-+<0001>+->|true
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|highlightnick|<-+<0001>+->|true
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|highlight|<-+<0001>+->|true
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley1|<-+<0001>+->|:) img/sourire.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley2|<-+<0001>+->|:-) img/sourire.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley3|<-+<0001>+->|:-D img/content.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley4|<-+<0001>+->|:d img/content.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley5|<-+<0001>+->|:-O img/OH-2.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley6|<-+<0001>+->|:o img/OH-1.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley7|<-+<0001>+->|:-P img/langue.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley8|<-+<0001>+->|:p img/langue.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley9|<-+<0001>+->|;-) img/clin-oeuil.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley10|<-+<0001>+->|;) img/clin-oeuil.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley11|<-+<0001>+->|:-( img/triste.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley12|<-+<0001>+->|:( img/triste.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley13|<-+<0001>+->|:-| img/OH-3.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley14|<-+<0001>+->|:| img/OH-3.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley15|<-+<0001>+->|:'( img/pleure.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley16|<-+<0001>+->|:$ img/rouge.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley17|<-+<0001>+->|:-$ img/rouge.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley18|<-+<0001>+->|(H) img/cool.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley19|<-+<0001>+->|(h) img/cool.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley20|<-+<0001>+->|:-@ img/enerve1.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley21|<-+<0001>+->|:@ img/enerve2.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley22|<-+<0001>+->|:-S img/roll-eyes.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|smiley23|<-+<0001>+->|:s img/roll-eyes.gif
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|applet.source|<-+<0001>+->|IRCApplet.class
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|applet.width|<-+<0001>+->|500
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|applet.height|<-+<0001>+->|384
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|applet.archive|<-+<0001>+->|./java/pjirc/irc.jar
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|CABINETS|<-+<0001>+->|irc.cab,securedirc.cab
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|floatingasl|<-+<0001>+->|true
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|quitmessage|<-+<0001>+->|Ate! :)
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|command1|<-+<0001>+->|/join #skynetftp
+Plouf's Java IRC Client|<-+<0001>+->|h|<-+<0001>+->|language|<-+<0001>+->|{host}/java/pjirc/english

@@ -1,0 +1,41 @@
+Kartais iðkyla ávairiausiø klausymø, apie kuriuos nesiseka rasti informacijos ðiame tinklalapyje. Kà gi tada daryti? 100% negarantuojame, taèiau bent daþnai, kai taip atsitinka, reikiamà informacijà, galite rasti mûsø IRC kanale <a href="irc://irc.delfi.lt/skynetftp">#skynetftp</a> kanale. Tiesa prieð einant tenai, labai praðome paieðkoti atsakymø á jums rûpimus klausimus <a href="?site=show&action=faq&skin={skin}&user={user}">DUK skyrelyje</a>. Kalbëtis galite naudodamiesi koká nors <a href="?site=files&user={user}&skin={skin}">IRC klientà</a> arba Web pokalbiø sistemà:
+<p>
+<table width="100" border="0" cellspacing="0" cellpadding="2">
+
+<!--Pasirenka kalbëjimo sistema ið duotøjø vartotojas-->
+  <tr>
+    <form name="chat">
+      <td nowrap>Kalbëjimo sistema:</td>
+	  <td>
+	  <select name="menu1" onChange="window.location=this.options[this.selectedIndex].value">   {chatengines}</select>
+	  </td>
+	</form>
+  </tr>
+<!--Pasirinkimo pabaiga-->
+
+<form action="{url}" method="post" name="chat" target="_blank">
+  <tr>
+    <td nowrap>Serveris:</td>
+    <td> <select name="{field - server}" size="1">
+            {servers}
+          </select></td>
+  </tr>
+  <tr>
+    <td nowrap>Slapyvardis:</td>
+    <td> <input name="{field - nick}" type="text" value="{username}"></td>
+  </tr>
+  <tr>
+    <td nowrap>Vardas:</td>
+    <td><input name="{field - name}" type="text" value="{sitename} Vartotojas"></td>
+  </tr>
+  {advancedfields}
+  {hiddenfields}
+  <tr>
+    <td>&nbsp;</td>
+    <td><input name="chat" type="submit" value="Kalbetis!"></td>
+  </tr>
+</form>
+</table>
+<hr color=blue noshade>
+Kanale renkasi nemaþai lankytojø, todël kai kada bûna visai ádomu pamatyti, kaip jie atrodo. Tai galite padaryti uþeidami á <a href="?site=album&skin={skin}&user={user}">albumo puslapá</a>. <p>
+Jeigu nëra nuotraukos su tavimi tame albume ir esi tu <a href="irc://irc.takas.lt/skynetftp">#skynetftp</a> kanalo lankytojas, gali savo nuotraukà atsiøsti á <a href="mailto:{e-mail}?subject=nuotrauka">{e-mail}</a> elektroninio paðto dëþutæ. Ji bus tikrai (jeigu, suprantama, nesuabejosime jos tikroviðkumu) bus ádëta á ðá albumà.

@@ -1,0 +1,13 @@
+Variable|<-+<0001>+->|Value
+e-mail2|<-+<0001>+->|kolkas@delfi.lt
+e-mail|<-+<0001>+->|mekdrop@ii-23.fateback.com
+sitename|<-+<0001>+->|#SkyNetFTP
+host|<-+<0001>+->|http://www.skyftp.skynet.lt
+RealPath|<-+<0001>+->|F:/www/webroot/testver/
+MaxInactivity|<-+<0001>+->|10000
+HowManyShowLinks|<-+<0001>+->|4
+encoding|<-+<0001>+->|windows-1257
+defaultbanreason|<-+<0001>+->|Uþ bandymà sukèiauti ávedant ne sau priklausantá IP adresà.
+dateformat|<-+<0001>+->|Y.m.d
+timeformat|<-+<0001>+->|H:i:s
+news image path|<-+<0001>+->|./images/news/

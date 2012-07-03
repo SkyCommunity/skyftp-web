@@ -1,0 +1,40 @@
+ <form action="?site=news&action=preview&{defaulturl}" method="post" enctype="multipart/form-data" name="newsform" target="_self" id="newsform">
+   <table width="318" border="0">
+     <tr>
+       <td width="90">Kalba:</td>
+       <td width="218"><select name="language" id="language">{languages}</select></td>
+     </tr>
+     <tr>
+       <td>Kategorija:       </td>
+       <td><select name="category" id="category">{categories}</select></td>
+     </tr>
+     <tr>
+       <td>Pavadinimas:</td>
+       <td><input name="title" type="text" id="title" value="{title}"/></td>
+     </tr>
+     <tr>
+       <td>Logo:</td>
+       <td><select name="picture" id="pictures">{pictures}</select></td>
+     </tr>
+     <tr>
+       <td>Trumpa informacija: </td>
+       <td><textarea name="smallinfo" id="smallinfo">{smallinfo}</textarea></td>
+     </tr>
+     <tr>
+       <td>Pilna informacija: </td>
+       <td><textarea name="allinfo" id="allinfo">{allinfo}</textarea></td>
+     </tr>
+     <tr>
+       <td>Autorius:</td>
+       <td>{Author}<input type="hidden" name="Author" value="{Author}"></td>
+     </tr>
+     <tr>
+       <td>Data:</td>
+       <td>{Date} {Time}<input type="hidden" name="Date" value="{Date}"><input type="hidden" name="Time" value="{Time}"></td>
+     </tr>
+     <tr>
+       <td>&nbsp;</td>
+       <td><input type="submit" name="Submit" value="Perþiûrëti" /></td>
+     </tr>
+   </table>
+</form>

@@ -1,0 +1,22 @@
+' '/:
+*BrowserX - Mozilla/4.61 [en];X11;U;;- BrowseX;2.0.0 Windows; 
+*Netscape - Mozilla/5.0;Windows;U;Windows NT 5.1;en-US;rv:1.4;Gecko/20030624 Netscape/7.1;ax;
+*Internet Explorer 6.0 - Mozilla/4.0;compatible;MSIE 6.0;Windows NT 5.1;
+*OffByOne v3.4 - Mozilla/4.7;compatible;OffByOne;Windows 2000;Webster Pro V3.4
+*amaya 8.1a - amaya/8.1a libwww/5.4.0
+*Opera - Opera/7.11;Windows NT 5.1;U;[en]
+*Opera - Mozilla/5.0;Windows NT 5.1;U;Opera 7.11 [en]
+*Opera - Mozilla/4.78;Windows NT 5.1;U;Opera 7.11 [en]
+*Opera - Mozilla/3.0;Windows NT 5.1;U;Opera 7.11 [en]
+*Opera - Mozilla/4.0;compatible;MSIE 6.0;Windows NT 5.1;Opera 7.11 [en]
+ghostzilla + 1.0 - Mozilla/5.0;Windows;U;Windows NT 5.1;en-US;rv:1.0rc3;Gecko/20020613
+*Mosaic Netscape version 0.9 beta - Mozilla/0.9 Beta;Windows;
+*Mosaic Netscape version 0.92 beta - Mozilla/0.92 Beta;Windows;
+*Mozilla - Mozilla/5.0;Windows;U;Windows NT 5.1;en-US;rv:1.4;Gecko/20030624
+*AOLpress 2.0 - NaviPress/2.0 AOLpress/2.0
+*Lynx - Lynx/2.8.2rel.1 libwww-FM/2.14FM 
+*Lynx - Lynx/2.8.3dev.17 libwww-FM/2.14FM
+*Multiweb - Mozilla 3.0;compatible;Indy Library
+*Netscape Navigator 1.22 - Mozilla/1.22;Windows;I;32bit;
+*Mozilla Firebird/0.6 - Mozilla/5.0;Windows;U;Windows NT 5.1;en-US;rv:1.4b;Gecko/20030516 Mozilla Firebird/0.6
+*Netscape Comunicator 4.8 - Mozilla/4.8 [en];Windows NT 5.0;U; 
